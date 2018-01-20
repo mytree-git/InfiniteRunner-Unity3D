@@ -1,0 +1,4 @@
+"Infinite Runner" is a Unity 3D game protototype made with C# language. In this game the 'hero' character keeps on running and bounces off the hurdles on its way.
+The hurdles include vertical and horizontal wall slabs where the character slides or jumps respective to the type of the hurdle. 
+There are also bonus collecting points in the path. The red coins earn 5 points and the blue coins earn 3 points to the player character.
+Once the player hits any hurdle, the game stops and the score is set to 0.

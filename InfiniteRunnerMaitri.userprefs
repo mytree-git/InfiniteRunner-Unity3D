@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\CollisionDetection.cs">
+    <Files>
+      <File FileName="Assets\scripts\CollisionDetection.cs" Line="39" Column="4" />
+      <File FileName="Assets\scripts\ObjectSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\CharacterControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\RootMotionScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\ScoreManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
